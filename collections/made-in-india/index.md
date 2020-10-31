@@ -10,6 +10,7 @@ items:
  - bagisto/bagisto
  - infracloudio/botkube
  - shivammathur/setup-php
+ - litmuschaos/litmus
 display_name: Made in India
 created_by: mvkaran
 image: made-in-india.png
